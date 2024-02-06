@@ -1,0 +1,5 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    color: rgb(198, 46, 26);
+}
